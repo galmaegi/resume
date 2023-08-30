@@ -45,17 +45,32 @@ additional_links:
 
 # About Section
 # about_title: About Me
+
+# I am a passionate and experienced developer with a focus on the Android platform. Throughout my career, I have been actively involved in the development of numerous Android applications, honing my skills and gaining hands-on experience in the process.
+
+# Furthermore, my dedication to mastering the Android platform led me to dive into the field of Android security during my master's course. This additional study has equipped me with a comprehensive understanding of the security aspects specific to Android platform and Android Application.
+
+# With my expertise in Android development and knowledge of Android security, I am well-equipped to tackle complex projects and ensure the development of secure and robust Android applications. I am eager to apply my skills and contribute to the success of future projects.
+# - Kotlin, Java, C++(JNI), Gradle(Groovy), Python, Bash shell and little bit of Chrome Extensions.
+# - Studied AOSP, Android Platform Security in Master degree
+# - CI/CD(Jenkins, Github Actions)
+# - Memory analysis in Android environment(Java/Native)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a passionate and experienced developer with a focus on the Android platform. Throughout my career, I have been actively involved in the development of numerous Android applications, honing my skills and gaining hands-on experience in the process.
+  I am a passionate and experienced developer with a strong focus on the Android platform. Throughout my career, I have actively participated in the development of numerous Android applications, refining my skills and gaining valuable hands-on experience in the process.
 
-  Furthermore, my dedication to mastering the Android platform led me to dive into the field of Android security during my master's course. This additional study has equipped me with a comprehensive understanding of the security aspects specific to Android platform and Android Application.
+  Furthermore, my dedication to mastering the Android platform led me to delve into the field of Android security during my master’s course. This additional study has provided me with a comprehensive understanding of the security aspects specific to the Android platform and Android applications.
 
-  With my expertise in Android development and knowledge of Android security, I am well-equipped to tackle complex projects and ensure the development of secure and robust Android applications. I am eager to apply my skills and contribute to the success of future projects.
-  - Java, Kotlin, C++(JNI), Gradle(Groovy), Python, Bash shell
-  - Studied AOSP, Android Security
-  - CI/CD(Jenkins, Github Actions)
-  - Memory analysis in Android native environment
+  With my expertise in Android development and my knowledge of Android security, I am well-equipped to tackle complex projects and ensure the creation of secure and robust Android applications. I am eager to apply my skills and contribute to the success of future projects.
+
+  In terms of technical skills:
+
+  - Languages: Kotlin, Java, C++(JNI), Python, Bash shell, and I also have some experience with Chrome Extensions.
+  - Academic Focus: I studied AOSP (Android Open Source Project) and Android Platform Security during my Master's degree.
+  - DevOps: Proficient in CI/CD using tools like Jenkins and Github Actions.
+  - Technical Analysis: Skilled in memory analysis within the Android environment (both Java and Native).
+
+  
 
 content:
 
@@ -74,7 +89,7 @@ content:
           Projects
             - Refactored every codes(code improvment also)
             - Modularization
-            - CI/CD for Sdk
+            - CI/CD for Sdk, Automation
             - Memory profiling(Native, Java)
       - layout: left
         title: LINE
@@ -90,6 +105,7 @@ content:
             - [OA(Official Account) Call - Call using both PSTN and VoIP](https://lineforbusiness.com/th-en/service/oa-call)
             - Refactored VoIP Service code(1:1 call, Group call)
             - Created demo application and documents for LINE VoIP SDK
+            - CI/CD for Sdk, Automation
             - Memory profiling(Native, Java)
 
   - title: Education # Title for the section
@@ -97,18 +113,24 @@ content:
     content:
       - layout: left
         title: Soongsil University
-        caption: 2016 - 2018
+        caption: 2016 - 2018, Seoul, Korea
         sub_title: MS Computer Science (Android Platform Security, Operating System)
         quote: >
         description: |
           Paper
-          - [Whitelist for analyzing android malware](https://dl.acm.org/doi/abs/10.1145/3129676.3129726)
-          - [Comparative Analysis of Mobile App Reverse Engineering Methods on Dalvik and ART](https://www.semanticscholar.org/paper/Comparative-Analysis-of-Mobile-App-Reverse-Methods-Na-Lim/d67fabdd7e65c2551c2c86f201a67c7f7a143373?p2df)
+            - [Whitelist for analyzing android malware](https://dl.acm.org/doi/abs/10.1145/3129676.3129726)
+            - [Comparative Analysis of Mobile App Reverse Engineering Methods on Dalvik and ART](https://www.semanticscholar.org/paper/Comparative-Analysis-of-Mobile-App-Reverse-Methods-Na-Lim/d67fabdd7e65c2551c2c86f201a67c7f7a143373?p2df)
+
+          Projects
+            - [Android Applicaiton code's WhiteList](images/andorid_whitelist.jpg)
+            - [Extract the original code of Andorid App's packed code](images/android_packing_code.jpg)
+            - [Studied and analyzed the behavior of Android ART(Based on Android KitKat 4.4)](images/android_art.jpg)
+            - [SSUOS: Lab-made tiny OS based on Bochs emulator](images/ssuos.jpg)
 
 
       - layout: left
         title: Soongsil University
-        caption: 2012 - 2016
+        caption: 2012 - 2016, Seoul, Korea
         sub_title: BS Computer Science
         description: |
           Paper
@@ -116,8 +138,8 @@ content:
 
           Part-time job in DIY Game
           - [KBX(Korea Beer Exchange) Local bar: showing menu/ordering application](https://www.instagram.com/kbx_beer)
-          - [Lotte Hotel: Design renewal for Lotte Hotel room management](images/profile.jpg)
-          - Broad pharm: Pharmacy application
+          - [Lotte Hotel: Design renewal for Lotte Hotel room management](images/lotte_hotel2.jpg)
+          - [Broad pharm: Pharmacy application](images/broad_pharm2.jpg)
           
 
   - title: A Little More About Me
@@ -127,9 +149,6 @@ content:
       - Workout
       - Free-diving
       - Take photos
-
-      Look at this cool image  
-      ![Trees](images/profile.jpg "Trees")
 
 # Footer
 footer_show_references: true
