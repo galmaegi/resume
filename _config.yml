@@ -122,7 +122,7 @@ content:
             - [Comparative Analysis of Mobile App Reverse Engineering Methods on Dalvik and ART](https://www.semanticscholar.org/paper/Comparative-Analysis-of-Mobile-App-Reverse-Methods-Na-Lim/d67fabdd7e65c2551c2c86f201a67c7f7a143373?p2df)
 
           Projects
-            - [Android Applicaiton code's WhiteList](images/andorid_whitelist.jpg)
+            - [Android Applicaiton code's WhiteList](images/android_whitelist.jpg)
             - [Extract the original code of Andorid App's packed code](images/android_packing_code.jpg)
             - [Studied and analyzed the behavior of Android ART(Based on Android KitKat 4.4)](images/android_art.jpg)
             - [SSUOS: Lab-made tiny OS based on Bochs emulator](images/ssuos.jpg)
