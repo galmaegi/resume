@@ -87,10 +87,11 @@ content:
           
         description: |
           Projects
-            - Refactored every codes(code improvment also)
-            - Modularization
-            - CI/CD for Sdk, Automation
-            - Memory profiling(Native, Java)
+            - Refactored and optimized codebase for improved performance and maintainability.
+            - Implemented modularization for streamlined code organization.
+            - Established CI/CD processes, automating key development tasks.
+            - Conducted memory profiling for native and Java components to optimize resource usage.
+
       - layout: left
         title: LINE
         link: https://play.google.com/store/apps/details?id=jp.naver.line.android
@@ -100,13 +101,13 @@ content:
           " Google Play Store Downloads 500M Global Messenger "
         description: |
           Projects
-            - [Co-viewing in LINE Group Call](https://linecorp.com/en/pr/news/en/2020/3250)
-            - [FacePlay based on VoIP 1:1 call](https://linecorp.com/en/pr/news/en/2018/2154)
-            - [OA(Official Account) Call - Call using both PSTN and VoIP](https://lineforbusiness.com/th-en/service/oa-call)
-            - Refactored VoIP Service code(1:1 call, Group call)
-            - Created demo application and documents for LINE VoIP SDK
-            - CI/CD for Sdk, Automation
-            - Memory profiling(Native, Java)
+            - [Contributed to co-viewing in LINE Group Call](https://linecorp.com/en/pr/news/en/2020/3250)
+            - [Contributed to FacePlay for 1:1 calls](https://linecorp.com/en/pr/news/en/2018/2154)
+            - [Developed OA Call, integrating PSTN and VoIP call](https://lineforbusiness.com/th-en/service/oa-call)
+            - Refactored for VoIP service code, enhancing robustness.
+            - Created demo applications and documentation for LINE VoIP SDK.
+            - Implemented CI/CD processes and automation for the SDK.
+            - Conducted memory profiling to improve overall performance.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
